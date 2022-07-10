@@ -1,0 +1,28 @@
+C:\Users\akkoy\source\repos\BirKelime\BirKelime\bin\Debug\BirKelime.exe.config
+C:\Users\akkoy\source\repos\BirKelime\BirKelime\bin\Debug\BirKelime.exe
+C:\Users\akkoy\source\repos\BirKelime\BirKelime\bin\Debug\BirKelime.pdb
+C:\Users\akkoy\source\repos\BirKelime\BirKelime\obj\Debug\BirKelime.csprojAssemblyReference.cache
+C:\Users\akkoy\source\repos\BirKelime\BirKelime\obj\Debug\BirKelime.Form1.resources
+C:\Users\akkoy\source\repos\BirKelime\BirKelime\obj\Debug\BirKelime.Properties.Resources.resources
+C:\Users\akkoy\source\repos\BirKelime\BirKelime\obj\Debug\BirKelime.csproj.GenerateResource.cache
+C:\Users\akkoy\source\repos\BirKelime\BirKelime\obj\Debug\BirKelime.exe
+C:\Users\akkoy\source\repos\BirKelime\BirKelime\obj\Debug\BirKelime.pdb
+C:\Users\akkoy\Desktop\BirKelime\BirKelime\bin\Debug\BirKelime.exe.config
+C:\Users\akkoy\Desktop\BirKelime\BirKelime\bin\Debug\BirKelime.exe
+C:\Users\akkoy\Desktop\BirKelime\BirKelime\bin\Debug\BirKelime.pdb
+C:\Users\akkoy\Desktop\BirKelime\BirKelime\obj\Debug\BirKelime.csprojAssemblyReference.cache
+C:\Users\akkoy\Desktop\BirKelime\BirKelime\obj\Debug\BirKelime.Form1.resources
+C:\Users\akkoy\Desktop\BirKelime\BirKelime\obj\Debug\BirKelime.Properties.Resources.resources
+C:\Users\akkoy\Desktop\BirKelime\BirKelime\obj\Debug\BirKelime.csproj.GenerateResource.cache
+C:\Users\akkoy\Desktop\BirKelime\BirKelime\obj\Debug\BirKelime.exe
+C:\Users\akkoy\Desktop\BirKelime\BirKelime\obj\Debug\BirKelime.pdb
+C:\Users\akkoy\Desktop\Ders Dökümanları\Ödevler\yazılım yapımı\BirKelime\BirKelime\bin\Debug\BirKelime.exe.config
+C:\Users\akkoy\Desktop\Ders Dökümanları\Ödevler\yazılım yapımı\BirKelime\BirKelime\bin\Debug\BirKelime.exe
+C:\Users\akkoy\Desktop\Ders Dökümanları\Ödevler\yazılım yapımı\BirKelime\BirKelime\bin\Debug\BirKelime.pdb
+C:\Users\akkoy\Desktop\Ders Dökümanları\Ödevler\yazılım yapımı\BirKelime\BirKelime\obj\Debug\BirKelime.csprojAssemblyReference.cache
+C:\Users\akkoy\Desktop\Ders Dökümanları\Ödevler\yazılım yapımı\BirKelime\BirKelime\obj\Debug\BirKelime.Form1.resources
+C:\Users\akkoy\Desktop\Ders Dökümanları\Ödevler\yazılım yapımı\BirKelime\BirKelime\obj\Debug\BirKelime.Properties.Resources.resources
+C:\Users\akkoy\Desktop\Ders Dökümanları\Ödevler\yazılım yapımı\BirKelime\BirKelime\obj\Debug\BirKelime.csproj.GenerateResource.cache
+C:\Users\akkoy\Desktop\Ders Dökümanları\Ödevler\yazılım yapımı\BirKelime\BirKelime\obj\Debug\BirKelime.csproj.CoreCompileInputs.cache
+C:\Users\akkoy\Desktop\Ders Dökümanları\Ödevler\yazılım yapımı\BirKelime\BirKelime\obj\Debug\BirKelime.exe
+C:\Users\akkoy\Desktop\Ders Dökümanları\Ödevler\yazılım yapımı\BirKelime\BirKelime\obj\Debug\BirKelime.pdb

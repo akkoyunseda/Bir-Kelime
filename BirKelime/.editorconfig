@@ -1,0 +1,4 @@
+﻿[*.cs]
+
+# CS2001: C:\Users\akkoy\source\repos\BirKelime\BirKelime\Class1.cs' kaynak dosyası bulunamadı.
+dotnet_diagnostic.CS2001.severity = none
